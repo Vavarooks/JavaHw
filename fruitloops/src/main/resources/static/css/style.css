@@ -1,0 +1,16 @@
+* {
+	margin: 0 auto;
+}
+.center{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.box {
+	
+	padding-left: 10px;
+	padding-right: 20px;
+	border: black 1px solid ;
+}
+.space{
+	margin: 10px;
+}
